@@ -1,8 +1,8 @@
 {
+  "homepage": "https://Omm-codes.github.io/Quickbites",
   "name": "feastflow",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Omm-codes.github.io/FEASTFLOW",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
