@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Quickbites/static/css/main.77c26d29.css",
-    "main.js": "/Quickbites/static/js/main.c1e405d4.js",
+    "main.js": "/Quickbites/static/js/main.fa544c05.js",
     "static/js/787.57d0b615.chunk.js": "/Quickbites/static/js/787.57d0b615.chunk.js",
     "static/media/mm.jpg": "/Quickbites/static/media/mm.b57d6263cadd4df95045.jpg",
     "static/media/fruit salad.jpg": "/Quickbites/static/media/fruit salad.661114a5b526a681bda2.jpg",
@@ -28,11 +28,11 @@
     "static/media/veg thali.jpeg": "/Quickbites/static/media/veg thali.37df20b47c4b27d597b2.jpeg",
     "index.html": "/Quickbites/index.html",
     "main.77c26d29.css.map": "/Quickbites/static/css/main.77c26d29.css.map",
-    "main.c1e405d4.js.map": "/Quickbites/static/js/main.c1e405d4.js.map",
+    "main.fa544c05.js.map": "/Quickbites/static/js/main.fa544c05.js.map",
     "787.57d0b615.chunk.js.map": "/Quickbites/static/js/787.57d0b615.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.77c26d29.css",
-    "static/js/main.c1e405d4.js"
+    "static/js/main.fa544c05.js"
   ]
 }
